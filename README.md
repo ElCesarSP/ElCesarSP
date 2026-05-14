@@ -6,9 +6,7 @@
 🕘 Focado em Node.js, Go e Python
 
 ---
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=https%3A%2F%2Fgithub.com%2FElCesarSP&theme=dark-minimalist&border_radius=5&locale=pt_BR&short_numbers=true&exclude_days=Sun&card_width=500&card_height=200" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ElCesarSP&theme=dark-minimalist&border_radius=5&locale=pt_BR&short_numbers=true&exclude_days=Sun&card_width=500&card_height=200&background=000000&border=754872&stroke=871B9787&ring=6E1862E6" alt="GitHub Streak" /></a>
 ---
 
 ### 👨🏾‍💻 Tecnologias
