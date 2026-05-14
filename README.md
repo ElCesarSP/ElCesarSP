@@ -71,9 +71,6 @@ Sistema de gerenciamento de eventos, motoristas e veículos utilizando Node.js, 
 - LinkedIn: Adicione seu LinkedIn aqui
 
 ---
-###
-
-## 🚀 Tecnologias
 
 ## 🚀 Tecnologias
 
