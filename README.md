@@ -68,7 +68,7 @@ Sistema de gerenciamento de eventos, motoristas e veículos utilizando Node.js, 
 ## 📫 Contato
 
 - GitHub: https://github.com/ElCesarSP
-- LinkedIn: Adicione seu LinkedIn aqui
+- LinkedIn: https://www.linkedin.com/in/cesar-santoss/
 
 ---
 
