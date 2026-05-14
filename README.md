@@ -7,6 +7,10 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=https%3A%2F%2Fgithub.com%2FElCesarSP&theme=dark-minimalist&border_radius=5&locale=pt_BR&short_numbers=true&exclude_days=Sun&card_width=500&card_height=200)](https://git.io/streak-stats)
+
+---
+
 ### 👨🏾‍💻 Tecnologias
 
 ### Backend
@@ -18,6 +22,7 @@
 ### Linguagens
 - JavaScript
 - TypeScript
+- Go
 - Python
 
 ### Banco de Dados
