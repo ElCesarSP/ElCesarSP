@@ -6,6 +6,7 @@
 🕘 Focado em Node.js, Go e Python
 
 ---
+
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img 
@@ -14,6 +15,7 @@
     />
   </a>
 </div>
+
 ---
 
 ### 👨🏾‍💻 Tecnologias
