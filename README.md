@@ -24,6 +24,7 @@
 - Node.js
 - Go (Golang)
 - Express
+- Django
 - Prisma
 
 ### Linguagens
